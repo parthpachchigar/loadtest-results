@@ -1,0 +1,10 @@
+{
+  "simulation": "CreateSubscription",
+  "simulationId": "createsubscription",
+  "start": 1604403486713,
+  "description": "Create refresshments subscription 15 req per sec",
+  "scenarios": ["Create subscriptions"],
+  "assertions": [
+
+  ]
+}
