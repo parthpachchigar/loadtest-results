@@ -1,0 +1,10 @@
+{
+  "simulation": "com.ipsy.api.usersubscriptionmanagement.loadtest.requests.item.ItemBasedEndpointTest",
+  "simulationId": "itembasedendpointtest",
+  "start": 1604562062590,
+  "description": "Cancel item 8 req per sec",
+  "scenarios": ["Cancel commerce items"],
+  "assertions": [
+
+  ]
+}

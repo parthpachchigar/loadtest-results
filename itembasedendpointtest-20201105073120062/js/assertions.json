@@ -1,0 +1,10 @@
+{
+  "simulation": "com.ipsy.api.usersubscriptionmanagement.loadtest.requests.item.ItemBasedEndpointTest",
+  "simulationId": "itembasedendpointtest",
+  "start": 1604561480062,
+  "description": "Update item cadence 10 req per sec",
+  "scenarios": ["Update commerce items"],
+  "assertions": [
+
+  ]
+}
